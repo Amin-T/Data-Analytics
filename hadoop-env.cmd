@@ -22,7 +22,7 @@
 @rem remote nodes.
 
 @rem The java implementation to use.  Required.
-set JAVA_HOME=%JAVA_HOME%
+set JAVA_HOME=C:\Progra~1\Java\jre1.8.0_251\bin
 
 @rem The jsvc implementation to use. Jsvc is required to run secure datanodes.
 @rem set JSVC_HOME=%JSVC_HOME%
